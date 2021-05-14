@@ -1,0 +1,55 @@
+#navbar ul {
+  flex-direction: column;
+  justify-content: center;
+}
+#navbar {
+  height: 7cm;
+  overflow: hidden;
+}
+#home {
+  padding-right: 75px;
+}
+#cat {
+  flex-direction: column;
+}
+#search {
+  overflow: hidden;
+}
+#apple {
+  flex-direction: column;
+}
+body {
+  background-color: black;
+  width: 100%;
+}
+#services-container {
+  background-color: white;
+}
+#mat {
+  background-color: white;
+}
+#cat {
+  justify-content: center;
+  padding-top: 30%;
+}
+#same {
+  flex-direction: column;
+  width: 60%;
+  padding-right: 20px;
+}
+#lists {
+  height: 35cm;
+}
+.if2 {
+  font-size: 1rem;
+  padding: 0px;
+  width: 3cm;
+}
+#if {
+  font-size: 0.7rem;
+  padding: 0px;
+  width: 5cmm;
+}
+#home {
+  padding-left: none;
+}
